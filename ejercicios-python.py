@@ -15,7 +15,7 @@ Profesor: Manuel Garrido
 """
 Ejercicio: Crear una función que muestre las 5 letras más repetidas de una frase
 
-- Se utiliza la estructura de datos "Counter" que permite revisar la cantidad de repeticiones de cada elemento
+- utilicé la estructura de datos "Counter" que permite revisar la cantidad de repeticiones de cada elemento
 - replace para eliminar espacios entre palabras, sino serian parte de los elementos contados
 - funcion most_common(n) para mostrar los más repetidos
 """
